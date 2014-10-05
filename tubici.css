@@ -1,0 +1,25 @@
+/*Los enlaces*/
+a:link {color:#000000;}  /*  unvisited link */
+a:visited {color:#666600;} /* visited link */
+a:hover {color:#660000;}   /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+#titulo{
+    font-family: 'Times New Roman',Times,serif;
+    background-color: #ccccff;
+    border-style:groove;
+    text-align: center;
+    width: 650px;
+    margin:auto;
+    color: #ffffff;  
+    font-size: 35px;
+}
+.tabla1{
+    width: 600px;
+    border-style:solid;
+    border-width:1px;
+}
+/*El cuerpo*/
+body{
+    background-color: #9999ff;
+}
